@@ -1,0 +1,4 @@
+psutil==5.9.0
+pywin32==303
+requests==2.27.1
+win32gui==221.6
